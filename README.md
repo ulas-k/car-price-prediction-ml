@@ -144,7 +144,7 @@ These results indicate that the model explains 90% of the variance in car prices
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/car-price-prediction-ml
+git clone https://github.com/ulas-k/car-price-prediction-ml.git
 
 Open car-price-prediction.ipynb
 
