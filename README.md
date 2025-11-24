@@ -133,9 +133,10 @@ random_state=42 (for reproducibility)
 
 📈 Model Performance
 
-MAE: 1806.44
+![MAE](https://img.shields.io/badge/MAE-1806.44-blue)
 
-R² Score: 0.9008
+![R² Score](https://img.shields.io/badge/R²-0.9008-brightgreen)
+
 
 These results indicate that the model explains 90% of the variance in car prices and averages $1806 absolute error — a strong performance for a linear model.
 
@@ -166,6 +167,5 @@ Add SHAP/feature importance analysis
 🙌 Feedback
 
 Feedback, suggestions, and contributions are always welcome!
-![R² Score](https://img.shields.io/badge/R²-0.9008-brightgreen)
-![MAE](https://img.shields.io/badge/MAE-1806.44-blue)
+
 
