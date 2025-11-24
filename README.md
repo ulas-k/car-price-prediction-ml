@@ -166,3 +166,6 @@ Add SHAP/feature importance analysis
 🙌 Feedback
 
 Feedback, suggestions, and contributions are always welcome!
+![R² Score](https://img.shields.io/badge/R²-0.9008-brightgreen)
+![MAE](https://img.shields.io/badge/MAE-1806.44-blue)
+
